@@ -7,10 +7,17 @@ assignees: DanielRTRD
 sites:
   - name: pokemon3d.net
     url: https://pokemon3d.net
+    expectedStatusCodes:
+      - 200
   - name: karp.pokemon3d.net
     check: "tcp-ping"
     url: karp.pokemon3d.net
     port: 15124
+  - name: GameJolt API
+    url: https://api.gamejolt.com/api/game/v1_2/time/?game_id=$GAME_ID
+    method: GET
+    headers:
+    - "Content-Type: application/json"
 
 status-website:
   name: "P3D-Legacy - Status"
