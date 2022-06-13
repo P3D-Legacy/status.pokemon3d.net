@@ -9,7 +9,15 @@ sites:
     url: https://pokemon3d.net
     expectedStatusCodes:
       - 200
-  - name: karp.pokemon3d.net
+  - name: Wiki
+    url: https://wiki.pokemon3d.net
+    expectedStatusCodes:
+      - 200
+  - name: Forum
+    url: https://forum.pokemon3d.net
+    expectedStatusCodes:
+      - 200
+  - name: Game Server: karp.pokemon3d.net
     check: "tcp-ping"
     url: karp.pokemon3d.net
     port: 15124
