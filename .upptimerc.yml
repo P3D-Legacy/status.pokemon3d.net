@@ -35,3 +35,7 @@ status-website:
       href: /
     - title: pokemon3d.net
       href: https://pokemon3d.net
+
+commitMessages:
+  commitAuthorName: "kilobyte-bot"
+  commitAuthorEmail: "hei@kilobyte.no"
