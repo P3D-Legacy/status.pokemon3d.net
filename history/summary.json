@@ -58,19 +58,19 @@
     "url": "karp.pokemon3d.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "game-server-karp-pokemon3d-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 208,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 153,
+    "timeDay": 163,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 4
     }
   },
   {
