@@ -16,10 +16,10 @@ sites:
     url: https://forum.pokemon3d.net
     expectedStatusCodes:
       - 200
-  - name: Game Server - karp.pokemon3d.net
-    check: "tcp-ping"
-    url: karp.pokemon3d.net
-    port: 15124
+  #- name: Game Server - karp.pokemon3d.net
+  #  check: "tcp-ping"
+  #  url: karp.pokemon3d.net
+  #  port: 15124
   - name: GameJolt API
     url: https://api.gamejolt.com/api/game/v1_2/time/?game_id=$GAME_ID
     method: GET
