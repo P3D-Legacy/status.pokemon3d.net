@@ -58,18 +58,19 @@
     "url": "https://api.gamejolt.com/api/game/v1_2/time/?game_id=$GAME_ID",
     "icon": "https://favicons.githubusercontent.com/api.gamejolt.com",
     "slug": "game-jolt-api",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 250,
     "timeDay": 377,
     "timeWeek": 229,
     "timeMonth": 250,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-16": 27
     }
   }
