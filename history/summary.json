@@ -4,9 +4,9 @@
     "url": "https://pokemon3d.net",
     "icon": "https://favicons.githubusercontent.com/pokemon3d.net",
     "slug": "pokemon3d-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2251,
     "timeMonth": 2236,
     "timeYear": 2236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "Wiki",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/api.gamejolt.com",
     "slug": "game-jolt-api",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 239,
     "timeDay": 107,
     "timeWeek": 221,
