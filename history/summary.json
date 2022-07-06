@@ -4,19 +4,19 @@
     "url": "https://pokemon3d.net",
     "icon": "https://favicons.githubusercontent.com/pokemon3d.net",
     "slug": "pokemon3d-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2149,
-    "timeDay": 1231,
-    "timeWeek": 1811,
-    "timeMonth": 2149,
-    "timeYear": 2149,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2156,
+    "timeDay": 1612,
+    "timeWeek": 1874,
+    "timeMonth": 2156,
+    "timeYear": 2156,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-06": 29
     }
   },
   {
