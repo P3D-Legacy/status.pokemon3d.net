@@ -4,9 +4,9 @@
     "url": "https://pokemon3d.net",
     "icon": "https://favicons.githubusercontent.com/pokemon3d.net",
     "slug": "pokemon3d-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "92.85%",
+    "uptimeDay": "92.84%",
     "uptimeWeek": "98.98%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.72%",
@@ -16,6 +16,7 @@
     "timeMonth": 1301,
     "timeYear": 1689,
     "dailyMinutesDown": {
+      "2022-08-02": 0,
       "2022-08-01": 103,
       "2022-07-11": 21,
       "2022-07-07": 77
