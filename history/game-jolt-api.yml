@@ -1,7 +1,7 @@
 url: https://api.gamejolt.com/api/game/v1_2/time/?game_id=$GAME_ID
 status: up
 code: 200
-responseTime: 246
-lastUpdated: 2023-01-01T23:18:48.141Z
+responseTime: 64
+lastUpdated: 2023-01-02T23:18:57.270Z
 startTime: Mon Jun 13 2022 18:13:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
