@@ -27,9 +27,9 @@
     "url": "https://wiki.pokemon3d.net",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.pokemon3d.net.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -39,6 +39,7 @@
     "timeMonth": 1605,
     "timeYear": 1367,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-09-15": 28
     }
   },
@@ -47,9 +48,9 @@
     "url": "https://forum.pokemon3d.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.pokemon3d.net.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -59,6 +60,7 @@
     "timeMonth": 1080,
     "timeYear": 1095,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-09-15": 28
     }
   },
